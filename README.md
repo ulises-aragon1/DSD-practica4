@@ -25,7 +25,7 @@ Con las siguientes características
 ### 🖥️ Características del código
 - El código fue desarrollado para un FPGA `EP4CE6E22C8N`
 - Utiliza un contador que sirve para encender cada display de 7 segmentos por un periodo de milisegundos, uno a la vez.
-- Utiliza módulos, razón por la cual tiene dos archivos _vhd_.
+- Utiliza módulos, razón por la cual tiene tres archivos _vhd_.
 
 #### 🧩 Archivos que componen el proyecto
 - [assets/](/assets/) - Contiene recursos usados por este archivo, actualmente solo contiene una imágen del diagrama.
